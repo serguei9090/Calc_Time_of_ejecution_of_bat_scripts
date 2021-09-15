@@ -1,0 +1,8 @@
+Uso
+
+Si coloca timecmd.bat en un directorio en su ruta, puede llamarlo desde cualquier lugar así:
+
+timecmd [your command]
+P.ej.
+
+C:\>timecmd pause
